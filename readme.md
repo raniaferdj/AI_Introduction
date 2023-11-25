@@ -1,7 +1,7 @@
 # Data Visualization Project
 
 ## Introduction
-This repository contains a Jupyter Notebook for a data visualization project completed as part of the Introduction to Artificial Intelligence course at GOMYCODE. The project focuses on the preprocessing and visualization phases using Python, with an emphasis on data processing and visualization libraries such as Matplotlib, Seaborn, and Pandas. The dataset used in this project includes state weather and air quality index (AQI) data.
+This repository contains a Jupyter Notebook for a data visualization project completed as part of the Introduction to Artificial Intelligence course at [GOMYCODE](https://gomycode.com/dz/courses/introduction-to-artificial-intelligence/). The project focuses on the preprocessing and visualization phases using Python, with an emphasis on data processing and visualization libraries such as Matplotlib, Seaborn, and Pandas. The dataset used in this project includes state weather and air quality index (AQI) data.
 
 ## Data Source
 The dataset used in this project, `state_weather_aqi_data_mf2.csv`, was obtained from [kaggle](https://www.kaggle.com/datasets/ishanmujumdar/aqi-data).
